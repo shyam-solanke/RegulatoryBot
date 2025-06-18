@@ -4,4 +4,4 @@
 
 azure-functions
 openai
-azure-identity
+python-dotenv
